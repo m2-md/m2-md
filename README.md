@@ -4,6 +4,7 @@ Senior Software Engineer & Technical Author with **17+ years of experience** bui
 
 [![Medium](https://img.shields.io/badge/Medium-@mkare-000000?style=for-the-badge&logo=medium)](https://medium.com/@mkare)
 [![Dev.to](https://img.shields.io/badge/Dev.to-@mkare-0A0A0A?style=for-the-badge&logo=devdotto)](https://dev.to/mkare)
+[![Hashnode](https://img.shields.io/badge/Hashnode-@mkare-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://mkare.hashnode.dev)
 [![Buy Me a Coffee](https://img.shields.io/badge/Starter_Kits-Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/mkare)
 
 ---
